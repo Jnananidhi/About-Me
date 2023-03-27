@@ -1,8 +1,8 @@
-# About-Me
-In this repo you can get details about my work 
+
 # 💫 About Me:
 I'm currently working as Mobile developer<br>Native Android and Flutter Dev<br>Currently learning Web Development<br>I have done some amazing Real world projects which you can see in this profile 
 
+# Projects screenshots:
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_jnananidhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/M Jnananidhi) 
