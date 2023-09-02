@@ -1,7 +1,7 @@
 
 # 💫 About Me:
-I'm currently working as Mobile developer<br>Native Android and Flutter Dev<br>Currently learning Web Development<br>I have done some amazing Real world projects which you can see in this profile 
-
+I'm currently working as Mobile developer<br>Native Android and Flutter Dev<br>Currently learning Web Development<br>I have done some amazing Real world projects which you can see in this profile<br>
+SEO Expert 
 # Projects screenshots:
 
 ## 🌐 Socials:
